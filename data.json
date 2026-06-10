@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20260610_002",
+    "CreatedOn": "2026-06-10T09:08:52.4314521Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 0,
+    "Status": "Draft",
+    "PlannedDate": "2026-06-10T00:00:00",
+    "Remarks": "just for test",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "123",
+      "Title": null,
+      "PartNumber": null,
+      "Manufacturer": null,
+      "SupplierType": null,
+      "SupplierName": null,
+      "Quantity": 0,
+      "UnitCost": 0,
+      "Estimation": 0
+    }
+  ]
+}
